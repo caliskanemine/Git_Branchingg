@@ -8,5 +8,7 @@ public class TC001 {
 
       //doing something to commit
 
+
+        //adding something to check commit and other function
     }
 }
